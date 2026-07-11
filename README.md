@@ -5,6 +5,13 @@ gear retailer, **Solstice Outdoor Co.**, using Retrieval-Augmented Generation
 (RAG) with cited sources, a transparency panel showing the retrieved FAQ
 snippets, and conversational memory.
 
+## Screenshot
+
+![Solstice Support Assistant dashboard](screenshots/dashboard.png)
+
+*Chat interface showing a grounded answer with cited source line and the
+retrieved-snippet transparency panel expanded.*
+
 ## Architecture
 
 ```
@@ -78,6 +85,12 @@ few seconds); later runs reuse the cached index in `faiss_index/`.
 > 3.14) on Windows. Python 3.11 or 3.12 is recommended for a smooth,
 > no-compiler-needed install.
 
+> **Note on LangChain version**: `requirements.txt` pins `langchain<1.0`.
+> LangChain 1.0 (released late 2025) removed `langchain.chains` from the core
+> package and moved it into a separate `langchain-classic` package, which
+> would break the imports in `rag.py`. Staying on the 0.3.x line keeps the
+> code in this repo working as-is.
+
 ## Deploying to Streamlit Community Cloud (free)
 
 1. Push this folder to a public GitHub repo (include the `.streamlit/`
@@ -113,4 +126,3 @@ Agent: International shipping to India costs a flat rate of $22.99 and takes
 | `.streamlit/config.toml` | Native Streamlit theme |
 | `requirements.txt` | Python dependencies |
 | `.env.example` | Template for required environment variables |
-# RAG-Customer-Support-Assistant
