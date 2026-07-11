@@ -7,10 +7,7 @@ snippets, and conversational memory.
 
 ## Screenshot
 
-![Solstice Support Assistant dashboard](screenshots/dashboard.png)
-
-*Chat interface showing a grounded answer with cited source line and the
-retrieved-snippet transparency panel expanded.*
+![Solstice Support Assistant dashboard](screenshots/Dashboard.png)
 
 ## Architecture
 
