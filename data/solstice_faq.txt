@@ -1,0 +1,31 @@
+Solstice Outdoor Co. Customer Support Knowledge Base
+
+SECTION 1: SHIPPING POLICY
+Line 1: Solstice Outdoor Co. ships to over 35 countries, including the United States, Canada, the United Kingdom, Germany, and India.
+Line 2: Standard domestic shipping (within the USA) takes 4-6 business days and costs $5.99, or is free on orders over $75.
+Line 3: International shipping to India, the UK, and the EU takes 8-15 business days and costs $22.99 flat rate.
+Line 4: Expedited shipping is available for an additional $18 and cuts delivery time roughly in half in all supported countries.
+Line 5: Orders are processed within 24 hours on business days. Orders placed after 2 PM local time ship the next business day.
+Line 6: Heavy or oversized gear (tents over 6-person capacity, kayaks, canoes) ships via freight carrier and may take 2-3 additional business days.
+
+SECTION 2: RETURN PROCESS
+Line 7: Unused gear in original packaging may be returned within 45 days of delivery for a full refund.
+Line 8: To start a return, log into your Solstice account, go to "Order History," and select "Start a Return" next to the relevant order.
+Line 9: Return shipping is free for defective or incorrect items; otherwise a $6.99 return shipping fee is deducted from the refund.
+Line 10: Refunds are issued to the original payment method within 5-7 business days after the returned item is received and inspected.
+Line 11: Worn footwear, used climbing safety equipment, and clearance items marked "Final Sale" are not eligible for return.
+Line 12: Exchanges for a different size or color can be requested instead of a refund at no extra cost.
+
+SECTION 3: BUSINESS HOURS
+Line 13: Solstice customer support is available Monday to Friday, 8 AM to 8 PM Mountain Time.
+Line 14: On weekends, support is available from 9 AM to 5 PM Mountain Time. Solstice is closed on major public holidays.
+Line 15: Live chat support responds within an average of 3 minutes during business hours.
+Line 16: Email support tickets are answered within 24 hours on business days.
+Line 17: Phone support is available at 1-800-555-0177 during all listed business hours.
+
+SECTION 4: SERVICE TIERS
+Line 18: Solstice Basic (free tier) includes standard shipping rates, the standard 45-day return policy, and email support only.
+Line 19: Solstice Trailblazer ($8.99/month) includes free standard shipping on all orders, priority email support, and a 60-day return window.
+Line 20: Solstice Summit ($17.99/month) includes free expedited shipping worldwide, 24/7 live chat and phone support, and a 90-day return window with free return shipping on all items.
+Line 21: Outfitter/Business accounts get a dedicated gear specialist, custom invoicing, and bulk order discounts starting at 50 units.
+Line 22: Members can upgrade, downgrade, or cancel their service tier at any time from the "Membership" tab in account settings; changes take effect at the next billing cycle.
