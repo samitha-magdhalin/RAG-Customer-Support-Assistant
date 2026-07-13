@@ -7,7 +7,7 @@ snippets, and conversational memory.
 
 ## Screenshot
 
-![Solstice Support Assistant dashboard](screenshots/Dashboard.png)
+![Solstice Support Assistant dashboard] (screenshots/Dashboard.png)
 
 ## Architecture
 
