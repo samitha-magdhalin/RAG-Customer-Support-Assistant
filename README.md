@@ -5,10 +5,6 @@ gear retailer, **Solstice Outdoor Co.**, using Retrieval-Augmented Generation
 (RAG) with cited sources, a transparency panel showing the retrieved FAQ
 snippets, and conversational memory.
 
-## Screenshot
-
-![Solstice Support Assistant dashboard] (screenshots/Dashboard.png)
-
 ## Architecture
 
 ```
